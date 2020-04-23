@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">android-recyclerview</string>
+    <string name="admob_app_id">ca-app-pub-7938242337147550~9088100224</string>
+
 </resources>
